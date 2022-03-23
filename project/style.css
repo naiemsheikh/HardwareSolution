@@ -1,0 +1,48 @@
+
+.lessionRestion{ width:100%; border:1px solid #ccc; min-height:130px; padding:10px}
+.lessionRestion p{ width:100%; padding:2px; margin:0px}
+
+#dtBasicExample thead th:last-child{ width:120px; text;text-align: center;}
+#dtBasicExample tbody td:last-child{ width:120px; text;text-align: center;}
+h5#exampleModalLongTitle {
+    text-align: center;
+    width: 100%;
+    font-family: inherit;
+}
+
+ 
+
+.clearfix::after {
+	clear: both;
+	display: table;
+}
+
+.options {
+	margin: 5px 0px 0px 0px;
+	float: left;
+}
+
+.pagination {
+	float: left;
+}
+
+.pagination a {
+	color: black;
+	float: left;
+	padding: 8px 16px;
+	text-decoration: none;
+	transition: background-color .3s;
+	border: 1px solid #ddd;
+	margin: 0 4px;
+}
+
+.pagination a.active {
+	background-color: #4CAF50;
+	color: white;
+	border: 1px solid #4CAF50;
+}
+
+.pagination a:hover:not(.active) {
+	background-color: #ddd;
+}
+.searchbox{ float:right}
