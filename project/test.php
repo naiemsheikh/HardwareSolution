@@ -11,7 +11,6 @@ $ch = curl_init("https://jsonplaceholder.typicode.com/posts");
 //  $key['title'], " ";
 // 		}
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 
