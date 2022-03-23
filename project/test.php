@@ -1,5 +1,5 @@
 <?php                   
-$ch = curl_init("https://jsonplaceholder.typicode.com/posts");
+$ch = curl_init("https://raw.githubusercontent.com/naiemsheikh/Rest-API-PHP-7/master/project/posts.txt");
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
        $respons = curl_exec($ch);
         curl_close($ch);

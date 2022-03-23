@@ -1,4 +1,4 @@
 
 
 Rest API link: 
-$default='https://jsonplaceholder.typicode.com/posts';
+$default='https://raw.githubusercontent.com/naiemsheikh/Rest-API-PHP-7/master/project/posts.txt';
